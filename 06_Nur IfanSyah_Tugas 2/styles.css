@@ -1,0 +1,144 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(to right, #b18c15, #b32076);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.jumbotron {
+    font-size: 20px;
+    text-align: center;
+    background-image: url(https://media.suara.com/pictures/970x544/2022/11/23/53557-profil-ziva-magnolya.jpg);
+    padding: 100px;
+    border-radius: auto-fit;
+}
+
+nav {
+    background-color: #8b6886;
+    padding: 10px;
+    border-radius: 10px 100px / 120px;
+    border-style: groove;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    margin-right: 130px;
+}
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(209, 166, 26);
+    transition: padding 1s ease;
+}
+nav ul li a:hover {
+    background-color: aliceblue;
+    padding: 1em;
+    border-radius: 8px;
+}
+.box-blue {
+    text-align: justify;
+    background-color: rgb(26, 70, 189);
+    margin: 15px;
+    padding: 15px;
+    border-radius:10px 100px / 120px;
+    border-style: ridge;
+    box-shadow: 12px 12px 2px 1px rgb(120, 135, 146);
+}
+.box-blue p {
+    color: white;
+}
+.box-green {
+    text-align: justify;
+    background-color: rgb(102, 122, 62);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px 100px / 120px;
+    border-style: groove;
+    box-shadow: 12px 12px 2px 1px rgb(98, 139, 15);
+}
+.box-green h2 {
+    color: white;
+}
+.box-green p {
+    color : white;
+}
+.box-green iframe {
+    border-radius: 12px;
+    
+}
+
+.box-creem{
+    text-align: justify;
+    background-color: rgb(218, 173, 25);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px 100px / 120px;
+    object-fit: cover;
+    overflow: hidden;
+    border-style: groove;
+    box-shadow: 12px 12px 2px 1px rgb(255, 239, 200); 
+}
+
+
+
+.box-creem iframe {
+    border-radius: 12px;
+}
+
+.box-purple {
+    text-align: justify;
+    background-color: rgb(128, 27, 141);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px 100px / 120px;
+    border-style: groove;
+    box-shadow: 12px 12px 2px 1px rgb(170, 96, 200);  
+}
+
+.box-purple iframe {
+    border-radius: 12px;
+}
+.box-pink {
+    text-align: justify;
+    background-color: rgb(206, 34, 106);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px 100px / 120px;
+    border-style: groove;
+    box-shadow: 12px 12px 2px 1px rgb(229, 152, 155);
+}
+
+.box-pink iframe {
+    border-radius: 12px;
+}
+
+.box-orange {
+    text-align: justify;
+    background-color: rgb(235, 91, 0);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px 100px / 120px;
+    border-style: groove;
+    box-shadow: 12px 12px 2px 1px rgb(255, 178, 0); 
+}
+
+.box-orange iframe {
+    border-radius: 12px;
+}
+.box-red {
+    text-align: justify;
+    background-color: rgb(229, 32, 32);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px 100px / 120px;
+    border-style: groove;
+    box-shadow: 12px 12px 2px 1px rgb(209, 104, 104);
+}
+.box-red iframe {
+    border-radius: 10px 100px / 120px;
+}
